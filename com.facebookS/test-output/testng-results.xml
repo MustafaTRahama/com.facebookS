@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-27T23:38:17 EST" name="Default suite" finished-at="2023-02-27T23:38:37 EST" duration-ms="19746">
+    <groups>
+    </groups>
+    <test started-at="2023-02-27T23:38:17 EST" name="Default test" finished-at="2023-02-27T23:38:37 EST" duration-ms="19746">
+      <class name="com.facebookLoginTest.LoginTest">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:com.facebookLoginTest.LoginTest@78b66d36]" started-at="2023-02-27T23:38:17 EST" name="openApp" finished-at="2023-02-27T23:38:22 EST" duration-ms="5074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="validLoginTest1()[pri:0, instance:com.facebookLoginTest.LoginTest@78b66d36]" started-at="2023-02-27T23:38:22 EST" name="validLoginTest1" finished-at="2023-02-27T23:38:28 EST" duration-ms="5930" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest1 -->
+        <test-method signature="validLoginTest2()[pri:0, instance:com.facebookLoginTest.LoginTest@78b66d36]" started-at="2023-02-27T23:38:28 EST" name="validLoginTest2" finished-at="2023-02-27T23:38:37 EST" duration-ms="8269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest2 -->
+        <test-method signature="validLoginTest3()[pri:0, instance:com.facebookLoginTest.LoginTest@78b66d36]" started-at="2023-02-27T23:38:37 EST" name="validLoginTest3" finished-at="2023-02-27T23:38:37 EST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest3 -->
+        <test-method signature="validLoginTest4()[pri:0, instance:com.facebookLoginTest.LoginTest@78b66d36]" started-at="2023-02-27T23:38:37 EST" name="validLoginTest4" finished-at="2023-02-27T23:38:37 EST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest4 -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:com.facebookLoginTest.LoginTest@78b66d36]" started-at="2023-02-27T23:38:37 EST" name="closeApplication" finished-at="2023-02-27T23:38:37 EST" duration-ms="409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.facebookLoginTest.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
